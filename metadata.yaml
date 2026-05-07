@@ -1,0 +1,17 @@
+# swift-iso org-level metadata.
+#
+# Standards-body sub-org under the swift-standards umbrella. Inherits the
+# silver brand for visual cohesion across all standards-body repos;
+# authority differentiation is carried by package names (e.g., swift-rfc-4122).
+#
+# Schema mirrors per-repo .github/metadata.yaml. Read by social-preview.sh.
+
+description: "Swift implementations of iso specifications."
+homepage: "https://swift-institute.org"
+
+socialPreview:
+  accent:
+    from: "#A8AEB8"   # silver gradient top
+    to: "#4D5664"     # silver gradient bottom
+    text: "#4D5664"   # caption ink
+  caption: "STANDARDS"
