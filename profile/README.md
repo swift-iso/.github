@@ -6,6 +6,8 @@ Swift implementations of ISO (International Organization for Standardization) sp
 
 One package per specification, named `swift-iso-<number>`. Each package implements its source document as literally as possible — parsing, validation, and formatting enforced by Swift's type system — and defines its own namespace (`ISO_8601`). Where several specifications govern one subject, the unifying `swift-*-standard` package lives in [swift-standards](https://github.com/swift-standards).
 
+> Swift ISO is an independent open-source project. It is not affiliated with, endorsed by, or sponsored by the International Organization for Standardization.
+
 ## Start here
 
 | Package | Specification |
